@@ -8,3 +8,7 @@ temitope:x:1003:1005::/home/temitope:/bin/bash
 mercy:x:1006:1003::/home/mercy:/bin/bash
 ben:x:1007:1008::/home/ben:/bin/bash
 joycee:x:1008:1009::/home/joycee:/bin/bash
+pwd
+sshd
+etc/passwd
+ooorooroororoororooroororoorr
